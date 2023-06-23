@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+nav{
+    display: flex;
+
+}
+
+h2{
+
+    font-size:50px;
+    margin: 5px 10px 0px;
+    font-family: 'Poppins', sans-serif;
+    color:blue;
+   
+}
+ul {
+display: flex;
+justify-content: center;
+align-items: start;
+list-style-type: none;
+margin: 22px 250px 0px;
+
+}
+
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 285;
+}
+
+.src {
+    width: 140px;
+    height: 50px;
+    position: absolute;
+    top: 18px;
+    left: 1150px;
+  }
+
+  p2 {
+    color: black;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 175px;
+    left: 50px;
+  }
+  
+  p3 {
+    color: grey;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    font-weight: 450;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 205px;
+    left: 50px;
+  }
+  
+  p4 {
+    color: rgb(116, 148, 213);
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 272px;
+    left: 50px;
+  }
+  
+  p5 {
+    color: black;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 325px;
+    left: 50px;
+  }
+
+  .hire-me-button {
+
+    position: absolute;
+    top: 370px;
+    left: 50px;
+
+
+
+  }
+  .hire-me-button {
+    background-color: rgb(68, 68, 217);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    
+  }
+  
+  .hire-me-button:hover {
+    background-color: #45a049;
+  }
+
+
+  .Contact-number-butto {
+
+    position: absolute;
+    top: 370px;
+    left: 170px;}
+
+  .Contact-number-butto {
+    background-color: rgb(68, 68, 217);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    
+  }
+  .Contact-number-butto:hover {
+    background-color: #45a049;
+  }
+
+  
+  
+  .jaimin {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 110px;
+    left: 750px;
+  }
+
+
+
+
+
+
+  
+  
+ 
+  
